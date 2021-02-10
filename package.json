@@ -2,6 +2,8 @@
 	"name": "microservices-plugin",
 	"displayName": "microservices-plugin",
 	"description": "",
+	"publisher": "anrighi",
+	"repository": {"type": "git", "url": "https://github.com/aaandri98/microservices-plugin"},
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.53.0"
